@@ -1,0 +1,9 @@
+# Compiled binaries
+sample/target_*
+
+# Ghidra project
+ghidra_project/
+
+# Generated analysis output
+*_analysis_output.txt
+*_decompiled_output.c
